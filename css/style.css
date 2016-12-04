@@ -8,3 +8,21 @@ body {
 .navbar{
 	background-color: #e16879;
 }
+.text-right{
+	position: absolute;
+	right: 20%
+}
+.text-holder{
+	position: relative;
+}
+
+.right{
+	position: absolute;
+	right: 10%	
+}
+.arial{
+	font: arial;
+}
+.normal{
+	width: 100%;
+}
